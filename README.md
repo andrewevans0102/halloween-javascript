@@ -6,7 +6,7 @@
 
 What is this?
 
-This is a project that uses P5JS to show a pumpkin for Halloween! P5JS is a very cool library that lets you do lots of different kinds of media and animations.
+This is an Angular project that uses P5JS to show a pumpkin for Halloween! P5JS is a very cool library that lets you do lots of different kinds of media and animations.
 
 You can see a hosted instance of this application [here](https://halloween-javascript.firebaseapp.com).
 
